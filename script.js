@@ -1,6 +1,5 @@
 document.getElementById("submitBtn").addEventListener("click", function() {
   const answers = {
-Berikut adalah jawaban soal dengan format yang diminta:
 q1: "Bersifat autotrof",  
 q2: "Askospora",  
 q3: "Meningkatkan luas permukaan untuk penyerapan nutrisi",  
